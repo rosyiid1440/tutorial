@@ -1,0 +1,10 @@
+create firs app
+
+npm install -g express-generator
+
+express --no-view [folder project]
+example: express --no-view hello-world
+
+cd hello-world
+npm install mysql2 sequelize jsonwebtoken dotenv bcryppt cors cookie-parser
+npm install -g nodemon

@@ -1,0 +1,23 @@
+Create app React Js
+
+npx create-react-app [name of project]
+example: npx create-react-app hello-world
+
+
+Add axios to project rect
+
+yarn add axios
+
+
+Add bootstrap 5
+
+yarn add bootstrap@next popper.js
+
+import boostrap into index.js
+import 'bostrap'
+import 'botstrap/dist/css/bootstrap.css'
+
+
+Add react router 
+
+yarn add react-router-dom
